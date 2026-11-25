@@ -11,7 +11,7 @@ const users = [
   },
   {
     name: "Alex Rivera",
-    gender: "Non-binary",
+    gender: "Male",
     avatar: "🧑🏻‍🎨"
   }
 ];
